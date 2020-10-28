@@ -12,15 +12,10 @@
 
 学过的编程语言有java，js，css
 
-`console.log("什么都没有")`
+`console.log('什么都没有')`
 
 ```html
-  <html>
-      <head>
-        <title>假装有标题</title>
-      <head>
-      <body>
-        <p>假装有内容</p>
-      </body>
-  </html>
+body.h1:hover{
+    font-size:50px;
+}
 ```
