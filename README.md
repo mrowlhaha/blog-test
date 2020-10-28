@@ -11,9 +11,7 @@
 * lol战争学院白银五
 * 王者荣耀微信区王者1星
 
-学过的编程语言有java，js，css
-
-`console.log('什么都没有')`
+学过的编程语言有`java`，`js`，`css`
 
 ```html
 h1:hover{
