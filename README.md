@@ -15,7 +15,7 @@
 `console.log('什么都没有')`
 
 ```html
-body.h1:hover{
-    font-size:50px;
+h1:hover{
+    font-size:100px;
 }
 ```
